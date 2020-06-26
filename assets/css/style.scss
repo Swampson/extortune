@@ -1,0 +1,36 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+@import url('https://fonts.googleapis.com/css2?family=Quintessential&display=swap');
+
+/* Colors */
+$frostbite: #dc51aaff;
+$space-cadet: #3b3561ff;
+$light-steel-blue: #afc1d6ff;
+$burgundy: #880d1eff;
+$aquamarine: #5dfdcbff;
+
+body {
+  font:14px/22px 'Quintessential', cursive;
+  color:#2b2b2b;
+  font-weight:300;
+  margin: 0px;
+  padding:0px 0 20px 0px;
+  background: url(../images/graph.png);
+}
+
+header {
+	background: $space-cadet;
+
+	h1 {
+		font-family: 'Quintessential', cursive;
+		font-weight:bold;
+	}
+}
+
+#banner {
+	border: none;
+	background: $frostbite;
+}
