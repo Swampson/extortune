@@ -23,7 +23,7 @@ email: your-email@example.com
 description: >- 
   Franchise records for Transparency and Accountability
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://swampson.github.io/extortune/" # the base hostname & protocol for your site, e.g. http://example.com
 show_downloads: false
 #google_analytics: [Your Google Analytics tracking ID]
 
